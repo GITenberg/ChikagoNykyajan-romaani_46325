@@ -4,7 +4,7 @@ alternative_title: The jungle. Finnish
 contributor:
   translator:
     agent_name: Joutsen, O. A.
-    birthdate: &id001 1878
+    birthdate: 1878
     deathdate: 1936
     gutenberg_agent_id: '33476'
     url: http://www.gutenberg.org/2009/agents/33476
@@ -18,12 +18,14 @@ creator:
     - Garrison, Frederick
     - Fitch, Clarke
     - Sinclair, Upton Beall
-    birthdate: *id001
+    birthdate: 1878
     deathdate: 1968
     gutenberg_agent_id: '88'
     url: http://www.gutenberg.org/2009/agents/88
     wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46325#ChikagoNykyajan-romaani
 gutenberg_issued: '2014-07-19'
 gutenberg_type: Text
 identifiers:
