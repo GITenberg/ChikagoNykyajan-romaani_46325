@@ -1,0 +1,45 @@
+_repo: ChikagoNykyajan-romaani_46325
+_version: 0.1.0
+alternative_title: The jungle. Finnish
+contributor:
+  translator:
+    agent_name: Joutsen, O. A.
+    birthdate: &id001 1878
+    deathdate: 1936
+    gutenberg_agent_id: '33476'
+    url: http://www.gutenberg.org/2009/agents/33476
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Garrison, Frederick
+    - Fitch, Clarke
+    - Sinclair, Upton Beall
+    birthdate: *id001
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: ''
+gutenberg_issued: '2014-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46325'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Stockyards -- Fiction'
+- !lcsh 'Chicago (Ill.) -- Fiction'
+- !lcsh 'Lithuanian Americans -- Fiction'
+- !lcsh 'Working class -- Fiction'
+- !lcsh 'Meat industry and trade -- Fiction'
+- !lcsh 'Immigrants -- Fiction'
+- !lcsh 'Political fiction'
+title: 'Chikago: Nykyajan romaani'
+url: http://www.gutenberg.org/ebooks/46325
